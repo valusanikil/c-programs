@@ -1,4 +1,4 @@
-# **Competitive Programs - C**
+# **Programs - C**
 
 Welcome to the **Competitive Programs - C** repository! This repository contains a collection of basic C programs designed for beginners and intermediate learners to practice and strengthen their understanding of C programming fundamentals.  
 
